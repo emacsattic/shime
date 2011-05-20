@@ -1,3 +1,9 @@
+# Discontinued!
+
+See https://github.com/chrisdone/haskell-emacs for the rewrite and natural progression of this prototype.
+
+This package will no longer be maintained.
+
 # Superior Haskell Interaction Mode for Emacs
 
 ## Introduction
